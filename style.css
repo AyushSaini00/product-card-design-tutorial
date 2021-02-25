@@ -1,0 +1,17 @@
+/* 
+**** COLORS ****
+*body-bg : #222061;
+*container-bg : #ffffff;
+*shoe-type-color: #938784;
+*span-color: #c0aea9;
+*btn-bg : #ffdc23;
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body {
+    font-family: 'lato', Arial, Helvetica, sans-serif;
+}
